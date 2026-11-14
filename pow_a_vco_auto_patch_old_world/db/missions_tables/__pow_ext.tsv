@@ -1,0 +1,5 @@
+key	mission_type	localised_title	localised_description	ui_image	ui_icon	generate	prioritised	event_category	set_piece_battle	location_x	location_y	quest_mission	quest_mission_final	trigger_radius	quest_character	sticky_by_default	localised_mission_completed_text	can_be_manually_cancelled
+#missions_tables;0;db/missions_tables/__pow_ext																		
+vco_custom_quest_morghur_athel_loren	FIGHT_SET_PIECE_BATTLE			bst/generic	rom_event_mission.png	false	false	Quest	vco_custom_quest_morghur_athel_loren	461	741	true	true	10.0000		true	Success! You have achieved one of your goals.	true
+vco_custom_quest_throt_ghoritch	FIGHT_SET_PIECE_BATTLE			skv/generic	rom_event_mission.png	false	false	Quest	vco_custom_quest_throt_ghoritch	823	1142	true	true	10.0000		true	Success! You have achieved one of your goals.	true
+vco_wh2_dlc16_qb_skv_final_battle_throt	FIGHT_SET_PIECE_BATTLE			skv/generic	rom_event_mission.png	false	false	Quest	wh2_dlc16_qb_skv_final_battle_throt	461	741	true	true	10.0000		true	Success! You have achieved one of your goals.	true

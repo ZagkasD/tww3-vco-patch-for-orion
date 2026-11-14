@@ -1,0 +1,36 @@
+key	localised_description	localised_title	bundle_target	priority	ui_icon	is_global_effect	show_in_3d_space	owner_only
+#effect_bundles_tables;4;db/effect_bundles_tables/__pow_ext								
+pow_ext_belakor_r1_harbinger_legions			faction	1	wh3_main_lord_passive_lord_of_torment.png	true	false	true
+pow_ext_belakor_r2_harbinger_aspect			faction	1	wh3_main_lord_passive_lord_of_torment.png	true	false	true
+pow_ext_def_gan_lady_unmasked_feast			faction	1	wh2_dlc10_quest_passive_primal_rage.png	true	false	true
+pow_ext_def_gan_lady_unmasked_warding			faction	1	wh2_dlc16_hero_passive_blood_shield.png	true	false	true
+pow_ext_victory_payload_bst_mor_2_drakwald_defiled			faction	1	wh_dlc05_bst_skill_morghur_corruption.png	true	false	true
+pow_ext_victory_payload_cth_yua_throne_of_albion			faction	1	vco_lizardmen_compass.png	true	false	true
+pow_ext_victory_payload_def_gan_1_witch_queen_walks_albion			faction	1	wh2_dlc10_lord_abilities_gaze_of_khaine.png	true	false	true
+pow_ext_victory_payload_def_gan_2_cauldron_fills			faction	1	wh3_main_mount_passive_totem_of_endless_bloodletting.png	true	false	true
+pow_ext_victory_payload_def_gan_3_lady_unmasked_foreshadow			faction	1	wh2_dlc10_weapon_abilities_sword_of_khaine.png	true	false	true
+pow_ext_victory_payload_dwf_gro_1_anti_chaos_b2_0			faction	1	icon_god_choice_grombrindal.png	true	false	true
+pow_ext_victory_payload_dwf_gro_2_accoutrements_b2_0			faction	1	wh_main_hero_passive_forgefire.png	true	false	true
+pow_ext_victory_payload_dwf_gro_3_old_grudge_b2_0			faction	1	wh3_dlc25_army_abilities_spirit_of_grungni.png	true	false	true
+pow_ext_victory_payload_kho_ska_3_crowns_of_blood			faction	1	bullet_kho_skull_piles.png	true	false	true
+pow_ext_victory_payload_lzd_nak_1_wanderer_b2_0			faction	1	vco_nakai_wanderer.png	true	false	true
+pow_ext_victory_payload_lzd_nak_2_coils			faction	1	vco_soteks_wrath.png	true	false	true
+pow_ext_victory_payload_lzd_nak_3_protector_b2_0			faction	1	vco_lizardmen_flag.png	true	false	true
+pow_ext_victory_payload_wef_dry_2_foreshadow			faction	1	vco_drycha_buff_spirits.png	true	false	true
+pow_ext_victory_payload_wef_dry_2_liberation			faction	1	vco_drycha_buff_elves.png	true	false	true
+pow_ext_victory_payload_wef_twi_1_dreaming_wood			faction	1	wh2_dlc16_lord_passive_conjoined_destiny.png	true	false	true
+pow_ext_victory_payload_wef_twi_3_worldroots			faction	1	wh_main_hero_passive_forgefire.png	true	false	true
+pow_ext_victory_payload_wef_twi_sherweald_herd			faction	1	jungle.png	true	false	true
+pow_ext_wef_dry_pact_dark_elves			faction	1	bullet_def_murderous_prowess.png	true	false	true
+pow_ext_wef_dry_pact_dwarfs			faction	1	wh_main_item_passive_the_great_book_of_grudges.png	true	false	true
+pow_ext_wef_dry_pact_independence			faction	1	vco_drycha_buff_spirits.png	true	false	true
+pow_ext_wef_dry_pact_ogres			faction	1	waaagh_reward_ogres.png	true	false	true
+pow_ext_wef_dry_pact_slaanesh			faction	1	mark_slaanesh.png	true	false	true
+pow_ext_wef_dry_pact_vampires			faction	1	bloodline_von_carstein.png	true	false	true
+pow_ext_victory_payload_lzd_nak_1_wanderer			faction	1	vco_lizardmen_compass.png	true	false	true
+pow_ext_victory_payload_lzd_nak_3_protector			faction	1	vco_lizardmen_compass.png	true	false	true
+pow_ext_victory_payload_skv_mdr_3_ariel_hunt_teaser			faction	1	vco_flesh_pit.png	true	false	true
+pow_ext_debug_buff			faction	1	vco_lizardmen_compass.png	true	false	true
+pow_ext_victory_payload_dwf_gro_1_anti_chaos			faction	1	icon_god_choice_grombrindal.png	true	false	true
+pow_ext_victory_payload_dwf_gro_2_accoutrements			faction	1	wh_main_hero_passive_forgefire.png	true	false	true
+pow_ext_victory_payload_dwf_gro_3_old_grudge			faction	1	wh3_dlc25_army_abilities_spirit_of_grungni.png	true	false	true

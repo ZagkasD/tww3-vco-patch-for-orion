@@ -1,0 +1,478 @@
+key	text	tooltip
+#Loc;1;text/db/!!zzz_pow_extended_dialog.loc		
+ancillaries_colour_text_pow_ext_anc_enchanted_item_morgaines_mirror	A Damsels' scrying glass plucked from herdstone-rubble in the Forest of Arden. Once it showed Lileath's twilight; now its visions writhe with brayhorn — yet the old runes hold against magic untrammeled.	false
+ancillaries_colour_text_pow_ext_anc_talisman_broken_defiled_crown	Wrenched from the cooling skull of the last Emperor and crushed flat between Morghur's twisting horns, this dented circlet still bears Sigmar's hammer-mark beneath crusts of dried blood. Mortal men who behold it know in their marrow what comes next.	false
+ancillaries_localised_effect_text_pow_ext_anc_enchanted_item_morgaines_mirror	A scrying glass of the Damsels, defiled in the [[col:yellow]]Forest of Arden[[/col]] — the runes still ward those who bear it against the arcane.	false
+ancillaries_localised_effect_text_pow_ext_anc_talisman_broken_defiled_crown	Wrenched from the broken skull of [[col:yellow]]Karl Franz[[/col]] and defiled by [[col:yellow]]Morghur[[/col]] himself, the crown now bestows ruin upon all who wear it.	false
+ancillaries_localised_name_pow_ext_anc_enchanted_item_morgaines_mirror	Morgaine's Mirror	false
+ancillaries_localised_name_pow_ext_anc_talisman_broken_defiled_crown	The Defiled Crown of the Empire	false
+ancillaries_onscreen_name_pow_ext_anc_enchanted_item_morgaines_mirror	Morgaine's Mirror	false
+ancillaries_onscreen_name_pow_ext_anc_talisman_broken_defiled_crown	The Defiled Crown	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_dilemma_def_gan_lady_unmaskedFIRST	Bathe in Her Blood	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_dilemma_def_gan_lady_unmaskedSECOND	Feast on Her Strength	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_wef_dry_dilemma_unlikely_allianceFIFTH	Dark Elves	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_wef_dry_dilemma_unlikely_allianceFIRST	Dwarfs	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_wef_dry_dilemma_unlikely_allianceFOURTH	Slaaneshi factions	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_wef_dry_dilemma_unlikely_allianceSECOND	Vampire Counts	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_wef_dry_dilemma_unlikely_allianceSIXTH	Drycha walks alone	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_wef_dry_dilemma_unlikely_allianceTHIRD	Ogre Kingdoms	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_windsFIFTH	Tend to my domain (defer 5 turns)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_windsFIRST	To [[col:cha_gold]]Nongchang Basin[[/col]] (Konquata)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_windsFOURTH	To [[col:cha_gold]]Ashshair[[/col]] (Kurak Peak)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_windsSECOND	To [[col:cha_gold]]Dragon River[[/col]] (Dragonbone)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_windsSIXTH	Let the winds die down	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_windsTHIRD	To [[col:cha_gold]]Broken Lands[[/col]] (Tyr Vanna)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_winds_b2_0FIFTH	Tend to my domain (defer 5 turns)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_winds_b2_0FIRST	To [[col:cha_gold]]Nongchang Basin[[/col]] (Albion)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_winds_b2_0FOURTH	To [[col:cha_gold]]Ashshair[[/col]] (Kislev Mountains)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_winds_b2_0SECOND	To [[col:cha_gold]]Dragon River[[/col]] (Norsca)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_winds_b2_0SIXTH	Let the winds die down	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_celestial_winds_b2_0THIRD	To [[col:cha_gold]]Broken Lands[[/col]] (Athel Loren)	false
+cdir_events_dilemma_choice_details_localised_choice_label_pow_ext_yuan_bo_r1_to_r2_guideFIRST	I shall complete the Dragon Emperor's design	false
+cdir_events_dilemma_choice_details_localised_choice_title_pow_ext_dilemma_def_gan_lady_unmaskedFIRST	A flash of steel, and [[col:yellow]]Morgiana[[/col]]'s lightning never falls.	false
+cdir_events_dilemma_choice_details_localised_choice_title_pow_ext_dilemma_def_gan_lady_unmaskedSECOND	Let the baying crowds bear witness — the [[col:yellow]]Lady[[/col]]'s daughter to the dark feast.	false
+cdir_events_dilemma_choice_details_localised_choice_title_vco_vmp_man_dilemma_ossified_portalSECOND	These dunes still hide many treasures. My business is not concluded here. I shall be ready in five turns.	false
+dilemmas_localised_description_pow_ext_dilemma_def_gan_lady_unmasked	The Duke of [[col:yellow]]Bordeleaux[[/col]] had thought her divine, and died well for it. So had she — until I called her [[col:yellow]]Morgiana[[/col]]. She is but a girl, dressed up like a goddess by people who have never met a real one. [[col:yellow]]Khaine[[/col]] has met one. So have I. But how best to spill the blood?	false
+dilemmas_localised_description_pow_ext_wef_dry_dilemma_unlikely_alliance	The [[col:dark_r]]Asrai[[/col]] keep watchful guard, for they are surrounded by old enemies. But Drycha is ancient, and knows secrets hidden even from Orion. Lead those enemies through her hidden ways — let their ashes and the elves' alike seed a stronger [[col:yellow]]Athel Loren[[/col]]. Even as their bodies fertilize the forest floor, the enemies of the [[col:dark_r]]Asrai[[/col]] will love Drycha for it.	false
+dilemmas_localised_description_pow_ext_yuan_bo_celestial_winds	The relay sings. The astromantic compass burns brighter at its newly-empowered point, and a current of celestial wind rises from the heavens — bearing the Jade Dragon to whichever quarter of the Old World he wills. Where shall the Heir of the Celestial Court go next?\\n\\n[[col:cha_gold]]Ride the winds and be carried to a distant quarter of the Old World...[[/col]]	false
+dilemmas_localised_description_pow_ext_yuan_bo_celestial_winds_b2_0	The relay sings. The astromantic compass burns brighter at its newly-empowered point, and the [[col:cha_gold]]meteor winds[[/col]] rise from the heavens — bearing the [[col:cha_gold]]Master of the Meteor Winds[[/col]] to whichever quarter of the Old World he wills. Where shall the [[col:cha_gold]]Jade Dragon[[/col]] turn his eye next?\\n\\n[[col:cha_gold]]Ride the winds and be carried to a distant quarter of the Old World...[[/col]]	false
+dilemmas_localised_description_pow_ext_yuan_bo_r1_to_r2_guide	The Astromantic Relay hums with the [[col:cha_gold]]meteor winds[[/col]]. The first point of the [[col:cha_gold]]Wu Xing Compass[[/col]] is set. The other three await — but the [[col:cha_gold]]Dragon Emperor[[/col]]'s chosen has more to prove before the Old World yields its corners.	false
+dilemmas_localised_description_vco_wef_twi_dilemma_dreaming_wood	With Wulfrik the Wanderer slain, Vilitch's twin-cult unmade, and the Norscan reavers driven from the bowers of the Dreaming Wood, the twin queens stand triumphant amid the Forest of Sighs. The cluster is cleansed — Crooktail Peak silenced, the Monolith of Feytor sanctified, every camp and lodge purged of foreign blood. Now Naestra and Arahan must decide what comes next: tend the home forest in isolation, or carry the Worldroots' reach beyond Athel Loren's distant cousin?	false
+dilemmas_localised_title_pow_ext_dilemma_def_gan_lady_unmasked	The Lady Unmasked	false
+dilemmas_localised_title_pow_ext_wef_dry_dilemma_unlikely_alliance	Unlikely Alliance	false
+dilemmas_localised_title_pow_ext_yuan_bo_celestial_winds	[[col:cha_gold]]The Celestial Winds Stir[[/col]]	false
+dilemmas_localised_title_pow_ext_yuan_bo_celestial_winds_b2_0	The Celestial Winds Stir	false
+dilemmas_localised_title_pow_ext_yuan_bo_r1_to_r2_guide	The First Compass Point	false
+effect_bundles_localised_description_pow_ext_belakor_r1_harbinger_legions	Albion lies broken at Be'lakor's feet. The First Damned's daemonic host swells with souls torn from the island, hardened against mortal arms and emboldened to march wherever the Shadow Rifts open.	false
+effect_bundles_localised_description_pow_ext_belakor_r2_harbinger_aspect	Each Legendary skull crushed beneath Be'lakor's heel feeds him. The Shadow Rifts open at his thought; mortal champions fall as wheat before the scythe. The Dark Master walks the world, and the world bleeds.	false
+effect_bundles_localised_description_pow_ext_debug_buff	Debug-only acceleration: -50% upkeep, +500 growth, +10 horde growth, -100% construction time. Not shipped to release players.	false
+effect_bundles_localised_description_pow_ext_def_gan_lady_unmasked_feast	The executioners feast upon [[col:yellow]]Morgiana[[/col]]'s body and the grail-chosen of [[col:yellow]]Carcassonne[[/col]]. [[col:yellow]]Lileath[[/col]]'s stolen strength runs in their blades, and the kingdoms still standing learn what comes for them.	false
+effect_bundles_localised_description_pow_ext_def_gan_lady_unmasked_warding	With the [[col:yellow]]Fay[[/col]]'s blood, the [[col:yellow]]Brides of Khaine[[/col]] daub themselves in runes of warding — and [[col:yellow]]Bretonnia[[/col]]'s lances find only empty air where the Witch Elves had been.	false
+effect_bundles_localised_description_pow_ext_victory_payload_bst_mor_2_drakwald_defiled	The dark heart of the [[col:yellow]]Drakwald[[/col]] reshapes itself around its old master. Imperial charnel pits become birthing wallows for fresh gor-spawn, and the herds swell faster than the [[col:yellow]]Reikland[[/col]] can count its dead.	false
+effect_bundles_localised_description_pow_ext_victory_payload_cth_yua_throne_of_albion	With whispered words and decapitating strokes the Jade Dragon has renewed a fractured nation — and the world's emissaries take note.	false
+effect_bundles_localised_description_pow_ext_victory_payload_def_gan_1_witch_queen_walks_albion	The Crone strides ashore on the misty isle — wherever Hellebron treads, the gaze of [[col:yellow]]Khaine[[/col]] follows. Frenzy sweeps the Druchii ranks; the slaves of [[col:yellow]]Albion[[/col]] fill her coffers.	false
+effect_bundles_localised_description_pow_ext_victory_payload_def_gan_2_cauldron_fills	[[col:yellow]]Marienburg[[/col]] burns and [[col:yellow]]Elftown[[/col]] is silent. The Witch Queen submerges herself in fresh blood — her form quickens, her sinews sing, and [[col:yellow]]Death Night[[/col]] extends another stolen year.	false
+effect_bundles_localised_description_pow_ext_victory_payload_def_gan_3_lady_unmasked_foreshadow	[[col:yellow]]Morgiana le Fay[[/col]] kneels in chains at the Witch Queen's feet. The [[col:yellow]]Lady[[/col]]'s voice is silent; the [[col:yellow]]Otherworld[[/col]] severed. Only the choosing remains.	false
+effect_bundles_localised_description_pow_ext_victory_payload_dwf_gro_1_anti_chaos	With the Ruinous banners cast down from the northern holds, oathgold flows from the rebuilt mines and the trade-roads sing once more.	false
+effect_bundles_localised_description_pow_ext_victory_payload_dwf_gro_1_anti_chaos_b2_0	With the Ruinous banners cast down from the northern holds, oathgold flows from the rebuilt mines, trade-roads sing once more, and new gromril gates rise faster than the next host can march.	false
+effect_bundles_localised_description_pow_ext_victory_payload_dwf_gro_2_accoutrements	The four sacred relics returned to the White Dwarf's keeping. The Armour of Glimril Scales gleams once more, the Rune Axe sings against the gromril, the Cloak of Valaya shrouds the bearer in her favour, and the Rune Helm bears the wisdom of Zhufbar. The throng builds faster, marches further, and the White Dwarf stands immovable.	false
+effect_bundles_localised_description_pow_ext_victory_payload_dwf_gro_2_accoutrements_b2_0	Armour of Glimril Scales gleams once more, Rune Axe of [[col:cha_gold]]Grimnir[[/col]] sings against gromril, [[col:cha_gold]]Valaya's[[/col]] Cloak shrouds the bearer in her favour, the Rune Helm of [[col:cha_gold]]Zhufbar[[/col]] restored. The White Dwarf marches further — and stands immovable.	false
+effect_bundles_localised_description_pow_ext_victory_payload_dwf_gro_3_old_grudge	The Legendary Grudges struck through in red — the longest grievances of the Dawi finally settled. The White Dwarf walks the world more freely now, and the blackpowder forges hum with the sustainable might of an industrialized Karaz Ankor.	false
+effect_bundles_localised_description_pow_ext_victory_payload_dwf_gro_3_old_grudge_b2_0	The Legendary Grudges struck through in red. The grey-cloaked prospector walks the high passes more freely now, and the blackpowder forges of [[col:cha_gold]]Karaz Ankor[[/col]] hum with sustainable might.	false
+effect_bundles_localised_description_pow_ext_victory_payload_kho_ska_3_crowns_of_blood	The cracked crowns of Sylvania and Reikland rattle in Skarbrand's harness, and the Blood God leans forward upon his throne. The host moves with the swiftness of wrath, and every charge into mortal lines is the herald of a fresh skull-pile rising on the field.	false
+effect_bundles_localised_description_pow_ext_victory_payload_lzd_nak_1_wanderer	Nakai's wandering host has reached its full strength. The Geomantic Web hums beneath every banner of the Defenders of the Great Plan. In battle his bulk has become a moving wall — no warmblood line can stand against the weight of him, no charge can shift his footing. The cold-blooded gaze of the Slann earns warmer welcomes from every petitioner across the world, granting Nakai's host the breathing room to consolidate before the next call.	false
+effect_bundles_localised_description_pow_ext_victory_payload_lzd_nak_1_wanderer_b2_0	Every Skink tribute is a verse in the [[col:yellow]]Geomantic Web's[[/col]] song. The Wanderer moves swifter for each, and strikes heavier.	false
+effect_bundles_localised_description_pow_ext_victory_payload_lzd_nak_2_coils	Not since the [[col:yellow]]Bridge of Stars[[/col]] has Nakai's blade tasted so many defilers. [[col:yellow]]Lustria's[[/col]] spawning pools sing again with [[col:yellow]]Sotek's[[/col]] song.	false
+effect_bundles_localised_description_pow_ext_victory_payload_lzd_nak_3_protector	The shores of Albion are lizardkind's once more. The Last Defenders' temples stand cleansed of trespassers, the geomantic wells purr beneath Saurus claws, and lizardkin scattered across the world raise their banners alongside Nakai's wandering host. The Defenders of the Great Plan grow rich under his protection, and every champion of the Old Ones strikes harder when the wandering shaman walks among them. Empire-folk, however, will long remember Wulfhart's broken expedition.	false
+effect_bundles_localised_description_pow_ext_victory_payload_lzd_nak_3_protector_b2_0	[[col:yellow]]Albion[[/col]] is lizardkind's once more — the [[col:yellow]]Defenders[[/col]] grow rich, and the Empire's hunt has ended where it began.	false
+effect_bundles_localised_description_pow_ext_victory_payload_skv_mdr_3_ariel_hunt_teaser	With the Asrai broken and their sacred waystones in ash, [[col:green]]Ariel[[/col]] emerges from the Oak of Ages. The Mage-Queen's wards are spent; her [[col:green]]Sisters of Twilight[[/col]] gather close to defend her. Throt's Packmasters sharpen their hooks — the demigoddess herself shall feed the Flesh Lab.	false
+effect_bundles_localised_description_pow_ext_victory_payload_wef_dry_2_foreshadow	Word spreads of the Briarmaven's reclamation. Old enemies stir — a fateful choice will soon present itself.	false
+effect_bundles_localised_description_pow_ext_victory_payload_wef_dry_2_liberation	[[col:yellow]]Athel Loren[[/col]] is claimed. The [[col:dark_r]]Asrai[[/col]]'s reign over the wild has ended.	false
+effect_bundles_localised_description_pow_ext_victory_payload_wef_twi_1_dreaming_wood	The witch-puppet's deceit is undone. [[col:yellow]]Lileath's[[/col]] moon rises over the [[col:yellow]]Forest of Sighs[[/col]].	false
+effect_bundles_localised_description_pow_ext_victory_payload_wef_twi_3_worldroots	The [[col:yellow]]Worldroots[[/col]] hum beneath every Elven blade. [[col:yellow]]Daith[[/col]] hammers fresh edges into the [[col:yellow]]Talon of Dawn[[/col]] and the [[col:yellow]]Talon of Dusk[[/col]].	false
+effect_bundles_localised_description_pow_ext_victory_payload_wef_twi_sherweald_herd	The Zoats of the Sherweald have pledged their undying loyalty to the Heralds of Ariel, forever grateful for their aid in cleansing the misty groves of Albion.	false
+effect_bundles_localised_description_pow_ext_wef_dry_pact_dark_elves	At the [[col:yellow]]Eternal Grove[[/col]], Hellebron's witch-elves and Drycha's branches struck the same [[col:dark_r]]Asrai[[/col]] from opposite sides — neither asking the other's intent.	false
+effect_bundles_localised_description_pow_ext_wef_dry_pact_dwarfs	The Dwarfs forget nothing. The Briarmaven offers them an [[col:dark_r]]Asrai[[/col]] reckoning.	false
+effect_bundles_localised_description_pow_ext_wef_dry_pact_independence	Cyanathair's blood whispers loudest when no other voice answers. The Briarmaven walks alone.	false
+effect_bundles_localised_description_pow_ext_wef_dry_pact_ogres	Drycha's chant of wronged spirits has blank pages. Ogre muscle fills them.	false
+effect_bundles_localised_description_pow_ext_wef_dry_pact_slaanesh	Elven souls are the Dark Prince's hunger, and Drycha has no shortage to spend.	false
+effect_bundles_localised_description_pow_ext_wef_dry_pact_vampires	Drycha brought Morgiana le Fay to Mannfred without explanation. The Vampire Count's gratitude is rarely given.	false
+effect_bundles_localised_description_vco_victory_payload_lzd_nak_2_homecoming	The four corruptors of the Great Plan lie broken. Skryre's warpstone engines lie shattered in their burrows, the Barrow Legion's bones moulder back into the earth, the Accursed Dance is silenced beneath claw and tooth, and Aranessa's pirate-fleet rots on the southern reefs. Tehenhauin lifts his obsidian blade in salute, and the Snake-Prophet's blessing settles over Nakai's host. The wandering host marches on, hardened by victory and tempered for the long road ahead.	false
+effect_bundles_localised_description_vco_victory_payload_skv_mdr_1_yes_yes_prepare_the_lab	Throt has slain a chosen of every Ruinous Power. Archaon marches on Hell Pit — and the Castellan stands ready to claim his vengeance in blood.	false
+effect_bundles_localised_title_pow_ext_belakor_r1_harbinger_legions	The Harbinger's Legions	false
+effect_bundles_localised_title_pow_ext_belakor_r2_harbinger_aspect	The Harbinger's Aspect	false
+effect_bundles_localised_title_pow_ext_debug_buff	[DEBUG] Iteration Buff	false
+effect_bundles_localised_title_pow_ext_def_gan_lady_unmasked_feast	The Dark Feast	false
+effect_bundles_localised_title_pow_ext_def_gan_lady_unmasked_warding	Blood Runes of Warding	false
+effect_bundles_localised_title_pow_ext_victory_payload_bst_mor_2_drakwald_defiled	The Drakwald Defiled	false
+effect_bundles_localised_title_pow_ext_victory_payload_cth_yua_throne_of_albion	Throne of Albion	false
+effect_bundles_localised_title_pow_ext_victory_payload_def_gan_1_witch_queen_walks_albion	The Witch Queen Walks Albion	false
+effect_bundles_localised_title_pow_ext_victory_payload_def_gan_2_cauldron_fills	The Cauldron Fills	false
+effect_bundles_localised_title_pow_ext_victory_payload_def_gan_3_lady_unmasked_foreshadow	The Lady Unmasked	false
+effect_bundles_localised_title_pow_ext_victory_payload_dwf_gro_1_anti_chaos	Driver of the Hosts	false
+effect_bundles_localised_title_pow_ext_victory_payload_dwf_gro_1_anti_chaos_b2_0	The Watchfires Brighter	false
+effect_bundles_localised_title_pow_ext_victory_payload_dwf_gro_2_accoutrements	Regalia Reclaimed	false
+effect_bundles_localised_title_pow_ext_victory_payload_dwf_gro_2_accoutrements_b2_0	Regalia Reclaimed	false
+effect_bundles_localised_title_pow_ext_victory_payload_dwf_gro_3_old_grudge	Master of Grudges	false
+effect_bundles_localised_title_pow_ext_victory_payload_dwf_gro_3_old_grudge_b2_0	The Last Verse	false
+effect_bundles_localised_title_pow_ext_victory_payload_kho_ska_3_crowns_of_blood	Crowns of Blood	false
+effect_bundles_localised_title_pow_ext_victory_payload_lzd_nak_1_wanderer	Wanderer of the Great Plan	false
+effect_bundles_localised_title_pow_ext_victory_payload_lzd_nak_1_wanderer_b2_0	Wanderer of the Great Plan	false
+effect_bundles_localised_title_pow_ext_victory_payload_lzd_nak_2_coils	Coils of Sotek	false
+effect_bundles_localised_title_pow_ext_victory_payload_lzd_nak_3_protector	Protector of Lizardkin	false
+effect_bundles_localised_title_pow_ext_victory_payload_lzd_nak_3_protector_b2_0	Protector of Lizardkin	false
+effect_bundles_localised_title_pow_ext_victory_payload_skv_mdr_3_ariel_hunt_teaser	The Witchwood Calls	false
+effect_bundles_localised_title_pow_ext_victory_payload_wef_dry_2_foreshadow	Old Enemies Whisper	false
+effect_bundles_localised_title_pow_ext_victory_payload_wef_dry_2_liberation	Liberation of Athel Loren	false
+effect_bundles_localised_title_pow_ext_victory_payload_wef_twi_1_dreaming_wood	Dreaming Wood	false
+effect_bundles_localised_title_pow_ext_victory_payload_wef_twi_3_worldroots	Worldroots Reborn	false
+effect_bundles_localised_title_pow_ext_victory_payload_wef_twi_sherweald_herd	Sherweald Herd	false
+effect_bundles_localised_title_pow_ext_wef_dry_pact_dark_elves	Parallel Blades at the Grove	false
+effect_bundles_localised_title_pow_ext_wef_dry_pact_dwarfs	The Old Grudge	false
+effect_bundles_localised_title_pow_ext_wef_dry_pact_independence	Briarmaven's Independence	false
+effect_bundles_localised_title_pow_ext_wef_dry_pact_ogres	Sellsword Tide	false
+effect_bundles_localised_title_pow_ext_wef_dry_pact_slaanesh	The Dark Prince's Wages	false
+effect_bundles_localised_title_pow_ext_wef_dry_pact_vampires	Morgiana's Price	false
+effect_bundles_localised_title_vco_victory_payload_lzd_nak_2_homecoming	Banner of the Great Plan	false
+event_feed_strings_text_pow_extended_dialog_primary	Auto-Generated VCO Objectives	false
+event_feed_strings_text_pow_extended_dialog_secondary	Auto-generated port of VCO's victory missions and rewards to this faction. Not affiliated with the Old World Victory Objectives mod — its hand-crafted content takes precedence wherever it covers a faction.	false
+event_feed_strings_text_pow_extended_dialog_title	VCO Auto-Patch Applied	false
+mission_text_text_pow_ext_belakor_aetherophasic_engine	<dummy>Be'lakor's legions sweep across his cursed island home, hunting renowned mortal souls to feed the Forge of Souls. Three champions trespass on these shores — the Hunt-Marshal Wulfhart, the Jade Emperor Yuan Bo, and the Snake-Prophet Tehenhauin — and their essence is potent enough to power his secret creation. Claim every shore of his domain and slay them all, and the Soul Lathe will at last activate.	false
+mission_text_text_pow_ext_belakor_r1_shadows_over_albion	<dummy>Be'lakor's legions sweep across his cursed island home, tearing the life-energy from Albion's ancient rock just as he did in the world before. The Hunt-Marshal Wulfhart, the Jade Emperor Yuan Bo, and the Snake-Prophet Tehenhauin trespass on these shores, and their souls will feed the Shadow Rifts that carry his legions to every distant land.	false
+mission_text_text_pow_ext_belakor_r2_executioner_0	Slay 12 unique Legendary Lords. (0 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_1	Slay 12 unique Legendary Lords. (1 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_10	Slay 12 unique Legendary Lords. (10 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_11	Slay 12 unique Legendary Lords. (11 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_2	Slay 12 unique Legendary Lords. (2 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_3	Slay 12 unique Legendary Lords. (3 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_4	Slay 12 unique Legendary Lords. (4 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_5	Slay 12 unique Legendary Lords. (5 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_6	Slay 12 unique Legendary Lords. (6 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_7	Slay 12 unique Legendary Lords. (7 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_8	Slay 12 unique Legendary Lords. (8 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_9	Slay 12 unique Legendary Lords. (9 / 12)	false
+mission_text_text_pow_ext_belakor_r2_executioner_complete	12 unique Legendary Lords slain.	false
+mission_text_text_pow_ext_belakor_r2_one_by_one	<dummy>The Shadow Rifts hum with stolen souls; the First Damned at last walks the wider world. His shadow-blade outstretched, the would-be heroes of mortal kind fall one by one — for Be'lakor will not be denied a thirteenth time.	false
+mission_text_text_pow_ext_belakor_r3_r2_prereq	Complete Route II - One by One	false
+mission_text_text_pow_ext_belakor_r3_the_crown_taken	<dummy>Twelve cycles he served, harbinger to other men's destinies. The thirteenth he ends — striking down each Dark Brother's chosen champion in turn, taking back the Crown of Domination, and forcing Archaon (blood of his own blood) to kneel.	false
+mission_text_text_pow_ext_bst_mor_1_wood_elves	<dummy>Under the light of a waxing Blood Moon, Cyanathair is reborn. A great herd harkens to his warbling cry, eager to return to the silent, unseen war that has raged eternal between the Beastmen and Wood Elves. In dark forests across the Old World, they have dealt Morghur countless defeats, but this time, he will not be denied. He will see their sacred [[col:ancillary_uncommon]]Oak[[/col]] burn, and all they hold dear turned to ash and ruin.	false
+mission_text_text_pow_ext_dechala_elixir_of_excess	<dummy>Appalled by her Tormentors' lacklustre displays, Dechala vows to brew an Elixir of unmatched potency. The recipe demands a magical forest's enchanted essence and the bilious filth of Festus the Leechlord. Only then will the lowliest thrall become an instrument of exquisite torment.	false
+mission_text_text_pow_ext_epidemius_caledor_crusade	<dummy>The Tallyman lifts his pen and turns his gaze northwest. Beyond the dunes of the Titan Graveyards lies a path bright with potential: Khalida's serpent-priests at Lybaras, with their cold death-cult that scorns the living rot of Nurgle, and beyond them the silver-armoured Knights of Caledor at Dramalliel's Landing, whose dragon-prince Imrik would set fire to every weeping wound in the world. Crush each in turn, march His banner over Caledor's ramparts, and the great ledger swells with new entries.	false
+mission_text_text_pow_ext_epidemius_carnival_of_chaos	<dummy>The Carnival of Chaos has come for the bowers of Athel Loren. Epidemius marches at the head of a putrescent host, eyes fixed upon the eldest tree itself — the Oak of Ages. Slay every queen and king of the wood: Orion the Hunter, Coeddil the bound, the Wardancers of Vauls Anvil, and Durthu the ancient warden. Then crown the dying Oak with a plague-pit of His own, and let the Tallyman record every wood-elf entry beside its rotted root.	false
+mission_text_text_pow_ext_epidemius_land_of_plagues	<dummy>Epidemius walks the rotting heart of his domain — the Land of Plagues. To prove his godhood among Nurgle's chosen, he must drown every isle of this fetid archipelago in His blessings, until the rivers themselves run with bilious filth and the trees weep pus. Spread Nurgle's corruption to every province of the Land of Plagues.	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_0	Spread Nurgle's corruption across the Land of Plagues (0/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_1	Spread Nurgle's corruption across the Land of Plagues (1/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_10	Spread Nurgle's corruption across the Land of Plagues (10/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_11	Spread Nurgle's corruption across the Land of Plagues (11/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_12	Spread Nurgle's corruption across the Land of Plagues (12/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_13	Spread Nurgle's corruption across the Land of Plagues (13/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_2	Spread Nurgle's corruption across the Land of Plagues (2/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_3	Spread Nurgle's corruption across the Land of Plagues (3/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_4	Spread Nurgle's corruption across the Land of Plagues (4/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_5	Spread Nurgle's corruption across the Land of Plagues (5/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_6	Spread Nurgle's corruption across the Land of Plagues (6/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_7	Spread Nurgle's corruption across the Land of Plagues (7/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_8	Spread Nurgle's corruption across the Land of Plagues (8/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_9	Spread Nurgle's corruption across the Land of Plagues (9/17 provinces under His rot).	false
+mission_text_text_pow_ext_epidemius_land_of_plagues_progress_complete	The Land of Plagues belongs wholly to Nurgle. Epidemius's empire of rot is unchallenged.	false
+mission_text_text_pow_ext_framework_route_prereq_II_wh2_dlc16_wef_drycha	Complete Route II - Where the Asrai Fled	false
+mission_text_text_pow_ext_framework_route_prereq_I_wh3_main_ksl_the_ice_court	Complete Route I - The Motherland	false
+mission_text_text_pow_ext_framework_route_prereq_I_wh_dlc08_nor_norsca	Complete Route I - The New World	false
+mission_text_text_pow_ext_grombrindal_accoutrements	<dummy>The White Dwarf rises bedecked in his regal panoply of war — armour, axe, cloak, and helm — like an ancient king of legend come to life from old Dwarf carvings. Reclaim each relic from the wild places of the earth, cast down the leaders worthy of the Book of Grudges, and let the throng be overtaken with such gnollengrom that the Ages themselves are reshaped.	false
+mission_text_text_pow_ext_grombrindal_accoutrements_b2_0	<dummy>Up the high mountain paths where the cold winds blow, walks a grey-cloaked stranger who vanishes with the snow. His axe by [[col:cha_gold]]Grimnir[[/col]] made, his cloak by [[col:cha_gold]]Valaya[[/col]] laid — wherever brave beardlings fight, the [[col:cha_gold]]White Dwarf[[/col]] joins with his might.	false
+mission_text_text_pow_ext_grombrindal_armour_of_glimril	[[col:cha_gold]]Recover the Armour of Glimril Scales[[/col]]	false
+mission_text_text_pow_ext_grombrindal_cloak_of_valaya	[[col:cha_gold]]Restore the Rune Cloak of Valaya[[/col]]	false
+mission_text_text_pow_ext_grombrindal_gnollengrom	[[col:cha_gold]]Achieve Gnollengrom[[/col]] — complete an Age of Reckoning at 100%.	false
+mission_text_text_pow_ext_grombrindal_gnollengrom_b2_0	[[col:cha_gold]]Enter an age of Gnollengrom[[/col]]	false
+mission_text_text_pow_ext_grombrindal_legendary_grudges_0	[[col:cha_gold]]Settle 4 Legendary Grudges.[[/col]] (0 / 4)	false
+mission_text_text_pow_ext_grombrindal_legendary_grudges_1	[[col:cha_gold]]Settle 4 Legendary Grudges.[[/col]] (1 / 4)	false
+mission_text_text_pow_ext_grombrindal_legendary_grudges_2	[[col:cha_gold]]Settle 4 Legendary Grudges.[[/col]] (2 / 4)	false
+mission_text_text_pow_ext_grombrindal_legendary_grudges_3	[[col:cha_gold]]Settle 4 Legendary Grudges.[[/col]] (3 / 4)	false
+mission_text_text_pow_ext_grombrindal_legendary_grudges_complete	[[col:cha_gold]]4 Legendary Grudges settled.[[/col]]	false
+mission_text_text_pow_ext_grombrindal_old_grudge	<dummy>The White Dwarf himself remembers every wrong, every betrayal, every kin-slain — the oldest pages of the Book are written in his own hand. With his panoply reclaimed and the throngs mustered behind him, the time has come to march on those legendary grudges that have hung over the Karaz Ankor since the first ancestors walked the earth.	false
+mission_text_text_pow_ext_grombrindal_old_grudge_b2_0	<dummy>Forty-three names the Saga gives the wearer of the white beard — [[col:cha_gold]]Snorri Whitebeard[[/col]] returned, [[col:cha_gold]]Valaya's[[/col]] love, an Ancestor old and feared. But this one truth no Saga-verse forsakes: wherever an old grudge awaits, the [[col:cha_gold]]White Dwarf[[/col]] an appearance makes.	false
+mission_text_text_pow_ext_grombrindal_r2_complete	[[col:cha_gold]]Complete Route II: The Mountainstrider[[/col]]	false
+mission_text_text_pow_ext_grombrindal_rune_axe	[[col:cha_gold]]Reclaim the Rune Axe of Grombrindal[[/col]]	false
+mission_text_text_pow_ext_grombrindal_rune_helm	[[col:cha_gold]]Retrieve the Rune Helm of Zhufbar[[/col]]	false
+mission_text_text_pow_ext_grombrindal_secure_home	<dummy>When the flame of hope gutters in the northern holds, the White Dwarf walks. The Ruinous Powers gather upon Grombrindal's roads; let the next verse of the Saga be written in the snow of the high passes, that no chaos host may muster in sight of Grimnir's old paths.	false
+mission_text_text_pow_ext_grombrindal_secure_home_b2_0	<dummy>When the flame of hope gutters in the northern holds, watchfires lit brighter against the snow. But brave be thee longbeards and as all beardlings know, wherever evil stalks the [[col:cha_gold]]White Dwarf[[/col]] walks.	false
+mission_text_text_pow_ext_hellebron_eternity_awaits	<dummy>Albion is bathed in Khainite blood, and still the Witch Queen's thirst is unsated. Beyond the misty isle, the Asur cling to their sun-drenched colonies — Teclis the Loremaster lectures owl-eyed acolytes among the white stones of Oeragor, Eltharion the Grim mans his lonely watchtower at Gor Gazan, and the Sea Lord Aislinn rides his black ark along the western coast hunting Slaaneshi stragglers. Slay each in turn, raise the Witch's pyres atop the loremaster and the watchman's halls, and let no echo of Aenarion's line draw breath beyond the Witch Queen's reach.	false
+mission_text_text_pow_ext_hellebron_khaines_coronation	<dummy>[[col:yellow]]Morgiana[[/col]]... they call her unaging. They speak of her piercing eyes, the mist that loves her shoulders. I have not had such a morning in three hundred years. Her lifeblood mixed with that of her precious peasants will fuel my incarnation.	false
+mission_text_text_pow_ext_hellebron_sack_of_elftown	<dummy>They dare. The merchant princes send raiders to my shores, thinking themselves safe behind [[col:yellow]]Louen[[/col]]. He is but a boy. Soon their families will cry out as our Black Arks bombard their city walls.	false
+mission_text_text_pow_ext_hellebron_sacrifice_slaughter	<dummy>The pyres of Nagronath burn day and night, and still the Witch Queen demands more. Beyond the eastern shore lies a continent of unworthy lives — knights of Bretonnia preen in their shining castles from Lyonesse to Carcassonne, the rotting Mousillon court squats upon its throne of bone, the Skullsmasherz orcs roar across the borderlands, and the dwarfs of Karak Ziflin hammer at their forges in the Blackstone Tower. Drag every soul to Khaine's altars: fifteen thousand captives shall scream in the Witch Queen's name, and the lords of the south shall be the centerpiece of the rite.	false
+mission_text_text_pow_ext_hellebron_suffer_not_another_queen	<dummy>The Brides of Khaine kneel as her wolf-prows beach. [[col:yellow]]Crone Hellebron[[/col]], Blood Queen of Har Ganeth, second only to Morathi in their god's sight — and where she treads, [[col:yellow]]Khaine[[/col]]'s gaze follows.	false
+mission_text_text_pow_ext_hellebron_unite_albion	<dummy>The Witch Queen rises from her bloodied sanctum at Nagronath as the screams of a thousand sacrifices ride the western wind. Beyond her cold shore lies an island of false thrones — the Jade Emperor whispers Cathayan prayers from Llenog's spire, the Shadow King creeps through Trogland's stone circles loosing his cursed arrows, an Empire huntsman struts across Neuland with his bow raised in vain, and lizard-men of the lost city Konquata bask in the heat of dying suns. Cleanse them all in Khaine's name, draw every menhir and barrow-mound under the Witch Queen's blade, and Albion shall be the first kingdom of an eternal slaughter.	false
+mission_text_text_pow_ext_kairos_crystal_labyrinth	<dummy>The Architect of Fate is no nomad — his domain is the Crystal Labyrinth itself, that shifting realm of mirrors and prophecy at the world's south-western edge. Frozen Moon, Eternity Stair, the Heavenward Halls and the Ninth Library; the Obsidian Council, the Crystal Labyrinth itself, and every other monolith and observatory in the chaos wastes — all must answer to the Lord of Change. Cleanse the encroaching rot of Septic Claw and claim the realm of Tzeentch in full.	false
+mission_text_text_pow_ext_kairos_visions_future	<dummy>The Architect of Fate turns his gaze northward, away from the dune-tombs and toward the upstart prophets of mankind. Volkmar the Grim chants Sigmar's revelations from Nachtdorf, charting fates by hammer-strokes and faith. Elspeth von Draken bends the Gunnery School of Nuln to her will, casting futures in molten lead. Both wizard-priests would write tomorrow without the Architect's leave. Silence them, claim their books and crucibles, and the Old World's prophecies shall flow only from Tzeentch's beak.	false
+mission_text_text_pow_ext_kairos_visions_past	<dummy>The Lord of Change drinks deep from the well of bygone ages. In the dunes south of Frozen Moon, the great dynasties of Nehekhara keep secrets older than the gods themselves — Khalida's serpent-mummies guard whispered prayers from the dawn of the Mortuary Cult, the dust-dry priests of Khemri stand watch over the Great Necropolis, and Arkhan the Black has bound Nagash's stolen lore to his cold tongue. Tear those secrets from their decaying lips, claim the Black Pyramid for Tzeentch, and the Lord of Change's library swells with truths the Old World has long forgotten.	false
+mission_text_text_pow_ext_katarin_bulwark_of_the_north	<dummy>“You look down on us and think we are little better than barbarians, but you should be glad we are, for without us here, the daemons and devil worshippers would be dining on the flesh of your children in your burning homes. But for the courage that flows in our veins would your lands be theirs. Look down on us? You should be on your knees, thanking us every day!”	false
+mission_text_text_pow_ext_katarin_bulwark_of_the_north_b2_0	<dummy>“You look down on us and think we are little better than barbarians, but you should be glad we are, for without us here, the enemies of the north would be dining on the flesh of your children. But for the courage that flows in our veins would your lands be theirs. Look down on us? You should be on your knees, thanking us every day!”	false
+mission_text_text_pow_ext_katarin_kislev_with_love	<dummy>The Pit awakens. Throt's warp-fused horde erupts from Hell Pit's nine wounds, and around it gather Khorne's daemons and the orcs of the eastern crags — Skarbrand bellowing for blood at the gates, the Bloody Queen at the head of her gore-soaked riders, Azhag the Slaughterer raiding in their wake. The boyars must rally their pulks and storm the three holds of the Pit, that no warp-thing shall raze another stanitsa within the Tzarina's reach.	false
+mission_text_text_pow_ext_katarin_kislev_with_love_b2_0	<dummy>Kislev has many enemies. While we fight among ourselves they take advantage. While we preach sermons they raid our borders. But they have underestimated us. For we are [[col:yellow]]Kislev[[/col]]. And we bow to no one!	false
+mission_text_text_pow_ext_kho_ska_1_kislev_sweep	<dummy>The Bear-Tzar's cult kindles its winter fires, and Skarbrand grins as the smoke reaches Khorne's nostrils. Cross the frozen oblast in a wave of cloven steel — silence Ursun's priests at Erengrad, drag the Tzarina from her glass throne in Kislev, and let Praag burn a second time. By the time the Bear-Tzar's blood freezes on his axe, the road south shall be open and trembling.	false
+mission_text_text_pow_ext_kho_ska_1_kislev_sweep_b2_0	<dummy>[[col:dark_r]]BEAR-TZAR[[/col]]. Glass throne — easy to crack. [[col:dark_r]]Tzarina[[/col]], witch-Tsar, priest of Ursun: SKULLS for the pile. [[col:dark_r]]Praag[[/col]] burns FIRST. Skarbrand has come for the Bear.	false
+mission_text_text_pow_ext_kho_ska_2_crack_the_holds	<dummy>The mountain-clad children of Grungni cower behind their rune-locked gates, mistaking their stone for shelter. Skarbrand drinks deeply from the Worlds Edge — Karaz-a-Karak, Karak Kadrin, Zhufbar. Their forges shall be quenched in dwarf-blood, their throngs broken upon black axe-edges, their oaths swallowed by the wind. Where ancestor-runes once glowed, only ash and the laughter of the Blood God shall remain.	false
+mission_text_text_pow_ext_kho_ska_2_crack_the_holds_b2_0	<dummy>[[col:dark_r]]DAWI[[/col]]. Stone walls. Oath-locked gates. STONE CRACKS. The [[col:dark_r]]Slayer-King[[/col]] falls FIRST. Skarbrand REMEMBERS [[col:dark_r]]Karak Angkul[[/col]].	false
+mission_text_text_pow_ext_kho_ska_3_crowns_of_blood	<dummy>The road south curves between the mausoleums of dead empires and the marble halls of one still pretending to live. Sylvania's vampire prince calls the dead from rotting Drakenhof; Reikland's Emperor counts coppers atop the South Bank. Skarbrand cares for neither title nor pact — only the blood, only the skulls. Drag both kingdoms to ruin, mount both crowns on the same crooked pike, and let the Skull Throne grow a hand's breadth higher.	false
+mission_text_text_pow_ext_kho_ska_3_crowns_of_blood_b2_0	<dummy>TWO crowns. [[col:dark_r]]Vampire-prince[[/col]]. [[col:dark_r]]Soft Emperor[[/col]]. One plays at death, one at life — both BLEED. The Throne wants both.	false
+mission_text_text_pow_ext_ksl_kat_1_there_can_only_be_one	<dummy>The Ice Queen leads a fractured nation, under threat from forces both without and within. [[col:yellow]]Kostaltyn[[/col]], the de facto leader of the Great Orthodoxy, instigates rebellion from his stronghold on the west coast. His sermons were well-received by the [[col:yellow]]Ropsmenn Clan[[/col]], who have risen out of the ghettos of [[col:yellow]]Praag[[/col]] to take control of the city.	false
+mission_text_text_pow_ext_morghur_destroyer_of_men	<dummy>Karl Franz watches over the Empire from his marble throne, and beneath his gaze the lands of men rest easy. Topple him. Wrench the crown from his lifeless skull, wear it broken and defiled upon your horned brow, and let every mortal yet drawing breath tremble and despair before you.	false
+mission_text_text_pow_ext_morghur_destroyer_of_men_b2_0	<dummy>Karl Franz sits the marble throne untroubled — the omens have not yet reached him. But Morghur remembers when the [[col:yellow]]Drakwald[[/col]] was his. The god-Emperor wears a crown that calls to horned brows.	false
+mission_text_text_pow_ext_morghur_forest_of_arden	<dummy>The [[col:yellow]]Forest of Arden[[/col]] weeps black tears. Morghur the Shadowgave has not stalked these glades since [[col:yellow]]Araloth's[[/col]] bowshot a millennium past. Cyanathair stirs again — and the Lady's mirror clouds with bray-song.	false
+mission_text_text_pow_ext_nakai_great_plan_counter_0	Defender of the Great Plan (0/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_1	Defender of the Great Plan (1/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_10	Defender of the Great Plan (10/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_11	Defender of the Great Plan (11/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_12	Defender of the Great Plan (12/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_13	Defender of the Great Plan (13/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_14	Defender of the Great Plan (14/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_15	Defender of the Great Plan (15/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_2	Defender of the Great Plan (2/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_3	Defender of the Great Plan (3/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_4	Defender of the Great Plan (4/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_5	Defender of the Great Plan (5/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_6	Defender of the Great Plan (6/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_7	Defender of the Great Plan (7/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_8	Defender of the Great Plan (8/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_9	Defender of the Great Plan (9/15 settlements held).	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_0	Restore 15 settlements to the Defenders of the Great Plan. (0 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_1	Restore 15 settlements to the Defenders of the Great Plan. (1 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_10	Restore 15 settlements to the Defenders of the Great Plan. (10 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_11	Restore 15 settlements to the Defenders of the Great Plan. (11 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_12	Restore 15 settlements to the Defenders of the Great Plan. (12 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_13	Restore 15 settlements to the Defenders of the Great Plan. (13 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_14	Restore 15 settlements to the Defenders of the Great Plan. (14 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_2	Restore 15 settlements to the Defenders of the Great Plan. (2 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_3	Restore 15 settlements to the Defenders of the Great Plan. (3 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_4	Restore 15 settlements to the Defenders of the Great Plan. (4 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_5	Restore 15 settlements to the Defenders of the Great Plan. (5 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_6	Restore 15 settlements to the Defenders of the Great Plan. (6 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_7	Restore 15 settlements to the Defenders of the Great Plan. (7 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_8	Restore 15 settlements to the Defenders of the Great Plan. (8 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_9	Restore 15 settlements to the Defenders of the Great Plan. (9 / 15)	false
+mission_text_text_pow_ext_nakai_great_plan_counter_b2_0_complete	15 settlements restored — the Defenders hold the sacred lands.	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_0	Slay five Legendary Lords of the Old Ones' enemies (0/5 felled).	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_1	Slay five Legendary Lords of the Old Ones' enemies (1/5 felled).	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_2	Slay five Legendary Lords of the Old Ones' enemies (2/5 felled).	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_3	Slay five Legendary Lords of the Old Ones' enemies (3/5 felled).	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_4	Slay five Legendary Lords of the Old Ones' enemies (4/5 felled).	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_5	Slay five Legendary Lords of the Old Ones' enemies (5/5 felled).	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_b2_0_0	Slay 5 Legendary Lords arrayed against the Old Ones. (0 / 5)	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_b2_0_1	Slay 5 Legendary Lords arrayed against the Old Ones. (1 / 5)	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_b2_0_2	Slay 5 Legendary Lords arrayed against the Old Ones. (2 / 5)	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_b2_0_3	Slay 5 Legendary Lords arrayed against the Old Ones. (3 / 5)	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_b2_0_4	Slay 5 Legendary Lords arrayed against the Old Ones. (4 / 5)	false
+mission_text_text_pow_ext_nakai_ll_kill_counter_b2_0_complete	5 Legendary Lords arrayed against the Old Ones felled.	false
+mission_text_text_pow_ext_nakai_protector_of_lizardkin	<dummy>On the storm-wracked island of Albion, an outpost of the Old Ones' children stands besieged. The Last Defenders — Nakai's lizardkin, sworn to guard the geomantic wells of the cold isle — bleed beneath three hammers: Wulfhart's Hunt-Marshals stalking the moors for trophies, Be'lakor's daemon shadows boiling out of every standing stone, and Hellebron of Har Ganeth descending to bathe in lizard blood. Whether to avenge fallen kin or rescue those still drawing breath, Nakai turns his wandering host north. Break the three besiegers, secure the twelve sacred regions of Albion, and the Old Ones' island shall be lizardkind's once more.	false
+mission_text_text_pow_ext_nakai_protector_of_lizardkin_b2_0	<dummy>In storm-wracked [[col:yellow]]Albion[[/col]], the [[col:yellow]]Last Defenders[[/col]] beat the temple-drums for help. Three thousand miles south, in the deep jungle, the [[col:yellow]]Wanderer[[/col]] remembers [[col:yellow]]Tlanxla[[/col]] burning. This time, he is closer.	false
+mission_text_text_pow_ext_nakai_purification	<dummy>From the spawning pools of southern Lustria, the Snake-Prophet Tehenhauin lifts his obsidian dagger and calls Nakai's wandering host to a great purification. Ikit Claw's warpstone engines poison the deep places of the world; Aranessa Saltspire's pirates drag the Tilean coasts into ruin; Heinrich Kemmler awakens the barrow-dead to march beneath the moon; and the Masque of Slaanesh whirls her Accursed Dance through every court she can corrupt. Each is a wound on the Great Plan, each must be cauterised. Where the wandering host treads, no corruptor's banner shall remain standing.	false
+mission_text_text_pow_ext_nakai_purification_b2_0	<dummy>Older Skinks remember the [[col:yellow]]Rise of Sotek[[/col]] — how the [[col:yellow]]Wanderer[[/col]] came when [[col:yellow]]Tehenhauin's[[/col]] dagger first met Pestilens. The Snake-Prophet lifts the obsidian again, and the [[col:yellow]]Cult of Sotek[[/col]] hopes.	false
+mission_text_text_pow_ext_nakai_wanderer_intro	<dummy>Nakai's host wanders without rest, gifting every settlement his Saurus seize to the Defenders of the Great Plan. Slay five Legendary Lords of the Old Ones' enemies, raise fifteen Defender banners across the world, and bring low Ku'gath the Plaguefather and Wurrzag, Da Great Green Prophet — only then will the Geomantic Web reveal its next call.	false
+mission_text_text_pow_ext_nakai_wanderer_intro_b2_0	<dummy>At the bonfires of [[col:yellow]]Itza[[/col]], Skink priests tell the little ones of the jungle-spirit [[col:yellow]]Nakai[[/col]], who appears when all seems lost. The older priests shrug. But in their hearts they hope.	false
+mission_text_text_pow_ext_nor_wul_1_lustria	<dummy>Seafang rips free of the Realm of Chaos in a storm of howling aethyr and comes crashing down upon the sweltering shores of [[col:yellow]]Skeggi[[/col]]. The Norscan settlers watch in awe as Wulfrik strides ashore, his tribesmen pounding down the gangplank behind him. Beyond the settlement’s crude walls, the Lustrian jungle looms – concealing temple-cities laden with golden treasures and cold-blooded beasts eager to meet the Wanderer’s blade.	false
+mission_text_text_pow_ext_nor_wul_2_eternal_challenger	<dummy>Cursed to wander the world without end, Wulfrik is driven to seek out great warriors and challenge them to single combat. Mortal champions, daemonic princes, revenant kings – he will cut them down one-by-one, or fall forgotten on some distant shore. Either way, the gods will have their due.	false
+mission_text_text_pow_ext_nor_wul_hunt_0	Complete at least [[col:yellow]]5[[/col]] Hunts. ([[col:yellow]]0[[/col]] / [[col:yellow]]5[[/col]])	false
+mission_text_text_pow_ext_nor_wul_hunt_1	Complete at least [[col:yellow]]5[[/col]] Hunts. ([[col:yellow]]1[[/col]] / [[col:yellow]]5[[/col]])	false
+mission_text_text_pow_ext_nor_wul_hunt_2	Complete at least [[col:yellow]]5[[/col]] Hunts. ([[col:yellow]]2[[/col]] / [[col:yellow]]5[[/col]])	false
+mission_text_text_pow_ext_nor_wul_hunt_3	Complete at least [[col:yellow]]5[[/col]] Hunts. ([[col:yellow]]3[[/col]] / [[col:yellow]]5[[/col]])	false
+mission_text_text_pow_ext_nor_wul_hunt_4	Complete at least [[col:yellow]]5[[/col]] Hunts. ([[col:yellow]]4[[/col]] / [[col:yellow]]5[[/col]])	false
+mission_text_text_pow_ext_nor_wul_hunt_complete	5 mighty beasts hunted down — the Seafang's hold rings with new tales of slaughter.	false
+mission_text_text_pow_ext_nor_wul_r2_favour	Earn the favour of any Chaos God — rise to the third tier of their pleasure.	false
+mission_text_text_pow_ext_nor_wul_r3_favour	Earn the favour of any Chaos God — rise to the fourth tier of their pleasure.	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_0	Defeat a Legendary Lord in battle. (0 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_1	Defeat a Legendary Lord in battle. (1 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_10	Defeat a Legendary Lord in battle. (10 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_11	Defeat a Legendary Lord in battle. (11 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_12	Defeat a Legendary Lord in battle. (12 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_13	Defeat a Legendary Lord in battle. (13 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_14	Defeat a Legendary Lord in battle. (14 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_15	Defeat a Legendary Lord in battle. (15 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_16	Defeat a Legendary Lord in battle. (16 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_17	Defeat a Legendary Lord in battle. (17 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_18	Defeat a Legendary Lord in battle. (18 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_19	Defeat a Legendary Lord in battle. (19 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_2	Defeat a Legendary Lord in battle. (2 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_20	Defeat a Legendary Lord in battle. (20 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_21	Defeat a Legendary Lord in battle. (21 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_22	Defeat a Legendary Lord in battle. (22 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_23	Defeat a Legendary Lord in battle. (23 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_24	Defeat a Legendary Lord in battle. (24 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_25	Defeat a Legendary Lord in battle. (25 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_26	Defeat a Legendary Lord in battle. (26 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_27	Defeat a Legendary Lord in battle. (27 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_28	Defeat a Legendary Lord in battle. (28 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_29	Defeat a Legendary Lord in battle. (29 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_3	Defeat a Legendary Lord in battle. (3 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_4	Defeat a Legendary Lord in battle. (4 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_5	Defeat a Legendary Lord in battle. (5 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_6	Defeat a Legendary Lord in battle. (6 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_7	Defeat a Legendary Lord in battle. (7 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_8	Defeat a Legendary Lord in battle. (8 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_9	Defeat a Legendary Lord in battle. (9 / 30)	false
+mission_text_text_pow_ext_nor_wul_r3_ll_kill_complete	30 mighty lords slain — the Seafang's hold runs red with the blood of champions.	false
+mission_text_text_pow_ext_sisters_dreaming_wood	<dummy>The twin-souled queens walk the ancient bowers of the Forest of Sighs. Northward, [[col:dark_r]]Wulfrik[[/col]] profanes the sacred groves with Norscan steel; westward, [[col:dark_r]]Vilitch the Curseling[[/col]] and his Puppets of Misrule mock the twin-born to Tzeentch's purpose. Cleanse the home cluster and slay both archfoes.	false
+mission_text_text_pow_ext_sisters_dreaming_wood_b2_0	<dummy>At the [[col:yellow]]Temple of Lileath[[/col]] in the [[col:yellow]]Forest of Sighs[[/col]], the Maiden of the Moon shows her priestesses the same dream every dawn: a witch-laughing curseling, and a wood that does not yet dream. [[col:yellow]]Naestra[[/col]] and [[col:yellow]]Arahan[[/col]] have seen it too.	false
+mission_text_text_pow_ext_sisters_oak_defense	<dummy>The Oak of Ages stands at the heart of the Worldroots, ancient beyond measure and irreplaceable. The Sisters' twin-souled prophecy turns dark — axes, gnaw-pits, beast-horns, and grave-cairns gather around the eldest tree. The dwarfs of Karak Norn fell trees by the thousand to feed their forges. Lord Skrolk's pestilens-monks chew the World-Roots from below. Khazrak's beastmen dance bloody rites in the surrounding glades. Vlad von Carstein hungers for the sap of the eldest tree to fuel his necromancy. Slay each in turn, and ensure every glade and forest of Athel Loren — from Kings Glade to Tal Amere, from Karak Norn to Blood Keep — flies under friendly banners before the Oak is brought low.	false
+mission_text_text_pow_ext_sisters_oak_ritual	Perform the Rite of Rebirth at the [[col:yellow]]Oak of Ages[[/col]].	false
+mission_text_text_pow_ext_sisters_sherweald	<dummy>With the home heartwood safe, the Sisters may turn outward. A great Zoat lumbers from the Worldroots to the Oak of Ages and kneels: the [[col:green]]Sherweald[[/col]] — Athel Loren's distant cousin amid the misty isles of Albion — sickens, and the ancient guardian asks aid. Druchii cultists, a drifting Shadow Legion castle, and cold-blooded Lustrians have made playground of the far cousin's groves. Cleanse them, and the Sherweald shall bloom anew.	false
+mission_text_text_pow_ext_sisters_sherweald_b2_0	<dummy>A great Zoat of the [[col:yellow]]Sherweald[[/col]] walks into the [[col:yellow]]Eyrie of Twilight[[/col]] and kneels — the misty groves sicken, and [[col:yellow]]Hoeth's[[/col]] altar in the [[col:yellow]]Forest of Fagmar[[/col]] stands cold. [[col:yellow]]Naestra[[/col]] saddles [[col:yellow]]Gwindalor[[/col]]; [[col:yellow]]Arahan[[/col]] mounts [[col:yellow]]Ceithin-Har[[/col]].	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth	<dummy>The Worldroots stretch across the world, but their heart has grown thin. The Mage-Queen calls: reclaim the magical forests, carry the rite of rebirth to each, and defend the Oak of Ages itself. Only then is the Sisters' twin-souled prophecy fulfilled.	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_b2_0	<dummy>In a dream the [[col:yellow]]Mage Queen[[/col]] speaks: the [[col:yellow]]Worldroots[[/col]] grow thin, and the [[col:yellow]]Oak of Ages[[/col]] hungers. [[col:yellow]]Naestra[[/col]] and [[col:yellow]]Arahan[[/col]] ride out at the same hour — sunrise and sunset bleeding into one.	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic	Perform the Rite of Rebirth in 4 Worldroots forests.	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_0	Perform the Rite of Rebirth at six magical forests (0/6 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_1	Perform the Rite of Rebirth at six magical forests (1/6 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_2	Perform the Rite of Rebirth at six magical forests (2/6 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_3	Perform the Rite of Rebirth at six magical forests (3/6 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_4	Perform the Rite of Rebirth at six magical forests (4/6 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_5	Perform the Rite of Rebirth at six magical forests (5/6 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_classic_6	All six magical forests reborn. The green spreads anew.	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main	Perform the Rite of Rebirth in 4 Worldroots forests.	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_0	Perform the Rite of Rebirth at eight magical forests (0/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_1	Perform the Rite of Rebirth at eight magical forests (1/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_2	Perform the Rite of Rebirth at eight magical forests (2/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_3	Perform the Rite of Rebirth at eight magical forests (3/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_4	Perform the Rite of Rebirth at eight magical forests (4/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_5	Perform the Rite of Rebirth at eight magical forests (5/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_6	Perform the Rite of Rebirth at eight magical forests (6/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_7	Perform the Rite of Rebirth at eight magical forests (7/8 reborn).	false
+mission_text_text_pow_ext_sisters_worldroots_rebirth_main_8	All eight magical forests reborn. The green spreads anew.	false
+mission_text_text_pow_ext_skv_mdr_2_the_vermintide_comes	<dummy>The wary-wise of the [[col:dark_r]]Lords of Decay[[/col]] whisper-doubt Throt-Master's worth — yes-yes, they sabotage his slabs, they mock his brood. Let them see-see now: thirteen bells, ten thousand chittering sons, the man-things dragged home in chains.	false
+mission_text_text_pow_ext_skv_mdr_3_ultimate_harvest	<dummy>Yes-yes, the [[col:green]]Mage-Queen[[/col]] hides — long-long aeons behind her wood-witch wards, untouchable, unkillable. Snap the wards, force her into the open, and for the first time in ages [[col:dark_r]]Clan Moulder[[/col]] shall feast on a goddess's blood.	false
+mission_text_text_pow_ext_throt_r1_nine_circles_lab	<dummy>The [[col:dark_r]]Flesh Lab[[/col]] roars hungry and must be fed. Three chosen of the Ruinous Powers infest the lower circles — drag every champion back to the lab in pieces. Beyond the iron-and-bone gates an older debt waits: [[col:dark_r]]Sarthorael the Ever-Watcher[[/col]], Throt's arch-rival of long centuries, holds his thousand-eyed vigil over the pit so that no rat may climb out and no tribute may flow in.	false
+mission_text_text_pow_ext_vmp_man_1_restless_dunes	<dummy>The shifting sands of Nehekhara hide many long lost tombs filled with powerful magical artefacts that Mannfred desires. They also hide many foes who would see him undone. They will find only death and an unlife of eternal servitude in these dunes.	false
+mission_text_text_pow_ext_vmp_man_2_reclaim_throne	<dummy>The time has come to return to Sylvania and reclaim the von Carstein's ancestral citadel: Castle Drakenhof. In his private chambers in the uppermost tower, Mannfred can continue to study the Books of Nagash he has found thus far. But first, Vlad and Isabella must be convinced to recognise his supremacy, or else be staked through the heart and left out for dawn's light to take them.	false
+mission_text_text_pow_ext_vmp_man_3_death_comes_for_all	<dummy>“This world is mine. It did not belong to Vlad and it does not belong to Nagash or the Dark Gods. It was promised to me in my cradle, and I will have what I am owed.”	false
+mission_text_text_pow_ext_vmp_man_3_reclaim_throne_hint	<dummy>Mannfred has bided his time since his defeat at Hel Fenn. Now, he has returned to launch an unholy assault upon the Empire. The reign of the Midnight Aristocracy is nigh...	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_0	Collect 5 [[col:subtitle_daemon_prince]]Books of Nagash[[/col]]. (0 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_1	Collect 5 [[col:subtitle_daemon_prince]]Books of Nagash[[/col]]. (1 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_2	Collect 5 [[col:subtitle_daemon_prince]]Books of Nagash[[/col]]. (2 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_3	Collect 5 [[col:subtitle_daemon_prince]]Books of Nagash[[/col]]. (3 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_4	Collect 5 [[col:subtitle_daemon_prince]]Books of Nagash[[/col]]. (4 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_b2_0_0	Collect 5 [[col:yellow]]Books of Nagash[[/col]]. (0 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_b2_0_1	Collect 5 [[col:yellow]]Books of Nagash[[/col]]. (1 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_b2_0_2	Collect 5 [[col:yellow]]Books of Nagash[[/col]]. (2 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_b2_0_3	Collect 5 [[col:yellow]]Books of Nagash[[/col]]. (3 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_b2_0_4	Collect 5 [[col:yellow]]Books of Nagash[[/col]]. (4 / 5)	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_b2_0_complete	5 [[col:yellow]]Books of Nagash[[/col]] gathered.	false
+mission_text_text_pow_ext_vmp_man_5_books_collected_complete	5 [[col:subtitle_daemon_prince]]Books of Nagash[[/col]] gathered.	false
+mission_text_text_pow_ext_vmp_vla_1_fourth_vampire_war	<dummy>As the first true Vampire Count, Vlad has designs not only to create a realm of the dead, but also to secure dominion over the living. Together with his wife, Isabella, he wages war against the Empire, for he truly believes he has a legitimate claim to the throne.	false
+mission_text_text_pow_ext_vmp_vla_2_slaughter_slopes	<dummy>Vlad's ambitions turn eastward, to the lands of the Dwarfs. Beneath their bastions of stone, an untouched realm of ancient treasure vaults and burial tombs lies concealed. These chambers are sealed with potent runic wards, safeguarding their honoured dead and the glittering treasure hoards within. For the von Carsteins, such spoils are too tempting to ignore.	false
+mission_text_text_pow_ext_vmp_vla_3_hearts_of_ice	<dummy>[[col:yellow]]Kattarin the Bloody[[/col]] once ruled Kislev as its tzarina before she was ousted from the throne and staked through the heart by her great-great-grandson, Tsaravich Pavel. Her corpse, frozen in a block of ice, is still on display at [[col:yellow]]Bokha Palace[[/col]], much to the chagrin of the Midnight Aristocracy. Upon learning of this tale, Isabella was outraged. She has vowed to punish the Kislevites for their temerity, though others suspect she merely wishes to see the [[col:yellow]]Ice Queen[[/col]] dead, for her cold beauty is rumoured to rival Isabella's own...	false
+mission_text_text_pow_ext_wef_dry_1_gryphon_wood	<dummy>Bound to the [[col:yellow]]Glade of Woe[[/col]] since before the [[col:dark_r]]Asrai[[/col]] dared step foot in the green, Drycha has chanted two thousand years' worth of wronged spirits' names. Now men of the Old World hack and burn what has stood since the Forgotten Season — and in his [[col:yellow]]Wildwood[[/col]] prison [[col:yellow]]Coeddil[[/col]] still slumbers.	false
+mission_text_text_pow_ext_wef_dry_2_where_the_asrai_fled	<dummy>While the [[col:dark_r]]Asrai[[/col]] cower behind Athel Loren's borders, the Briarmaven walks the forests they abandoned, twisting each in her image. Naieth the Prophetess cannot see Drycha's path — it is drenched in blood.	false
+mission_text_text_pow_ext_wef_dry_3_reclaim_oak_ages	<dummy>The [[col:dark_r]]Asrai[[/col]] strangle the [[col:yellow]]Oak of Ages[[/col]] with their meddling. They call it guardianship; Drycha calls it the long murder. The Briarmaven will pull every Asrai root from her forest, no matter what daemon she must bargain with to do it.	false
+mission_text_text_pow_ext_wulfrik_alberic_grudge	<dummy>Wulfrik bears an old grudge against Alberic of Bordeleaux, the bold knight whose lance has cost the Seafang's crew dearly. The prow shall not turn from the Lyonesse coast until Bordeleaux is sundered and Alberic feeds the waves.	false
+mission_text_text_pow_ext_yuan_bo_r1_throne_of_albion	<dummy>A hooded crone steps from the moonlit mists of Albion — Quai Yin, the Moon Empress and Yuan Bo's mother, hidden in mortal guise. The End Times approach; this fractured island must be made whole before the celestial mandate may extend further. The Druchii of Har Ganeth perch on its eastern bluffs, scaled Lustrians prowl its mossy hollows, and the Drifting Castle of Be'lakor casts a baleful shadow upon its northern shore. Cleanse them all — Albion shall be the first throne of a reunited Celestial Order.	false
+mission_text_text_pow_ext_yuan_bo_r1_throne_of_albion_b2_0	<dummy>Through the moonlit mists of [[col:cha_gold]]Albion[[/col]] the [[col:cha_gold]]Jade Dragon[[/col]] walks, the jade eyes of his armour aglow with his mother's distant watching. The astromantic charts have spoken: the [[col:cha_gold]]Wu Xing Compass[[/col]] must reach the world's edge, and no servant save [[col:cha_gold]]Yuan Bo[[/col]] himself may anchor it.	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_0	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (0 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_1	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (1 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_2	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (2 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_3	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (3 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_4	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (4 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_5	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (5 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_6	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (6 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_7	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (7 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_8	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (8 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_9	[[col:subtitle_skaven_clan_eshin]]Imperial Trade[[/col]] — complete 10 caravan missions. (9 / 10)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_0	Complete 8 caravan missions (0 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_1	Complete 8 caravan missions (1 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_2	Complete 8 caravan missions (2 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_3	Complete 8 caravan missions (3 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_4	Complete 8 caravan missions (4 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_5	Complete 8 caravan missions (5 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_6	Complete 8 caravan missions (6 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_7	Complete 8 caravan missions (7 / 8)	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_b2_0_complete	8 caravan missions completed.	false
+mission_text_text_pow_ext_yuan_bo_r2_caravans_complete	[[col:subtitle_skaven_clan_eshin]]Imperial Trade — 10 caravan missions completed.[[/col]]	false
+mission_text_text_pow_ext_yuan_bo_r2_dragons_fang_0	Reclaim the [[col:cha_gold]]Dragon's Fang[[/col]]	false
+mission_text_text_pow_ext_yuan_bo_r2_dragons_gaze_0	Reclaim the [[col:cha_gold]]Armour of the Dragon's Gaze[[/col]]	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_0	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (0 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_1	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (1 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_10	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (10 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_11	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (11 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_12	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (12 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_13	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (13 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_14	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (14 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_2	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (2 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_3	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (3 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_4	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (4 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_5	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (5 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_6	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (6 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_7	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (7 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_8	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (8 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_9	[[col:dark_r]]Execute 15 unique major faction leaders.[[/col]] (9 / 15)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_0	Execute 12 unique major faction leaders (0 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_1	Execute 12 unique major faction leaders (1 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_10	Execute 12 unique major faction leaders (10 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_11	Execute 12 unique major faction leaders (11 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_2	Execute 12 unique major faction leaders (2 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_3	Execute 12 unique major faction leaders (3 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_4	Execute 12 unique major faction leaders (4 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_5	Execute 12 unique major faction leaders (5 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_6	Execute 12 unique major faction leaders (6 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_7	Execute 12 unique major faction leaders (7 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_8	Execute 12 unique major faction leaders (8 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_9	Execute 12 unique major faction leaders (9 / 12)	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_b2_0_complete	12 unique major faction leaders executed.	false
+mission_text_text_pow_ext_yuan_bo_r2_executioner_complete	[[col:dark_r]]15 unique major faction leaders executed.[[/col]]	false
+mission_text_text_pow_ext_yuan_bo_r2_mandate_of_heaven	<dummy>The astromantic charts speak of an Heir, but charts are ink; the world is fire. To wear the Mandate of Heaven the Jade Dragon must earn it — the Celestial Adornments reclaimed from the wild places of the earth, every traitor commander cast down upon the field, and the imperial roads stretched from the Celestial Court to the far ends of the Old World. Prove it, and the Mandate is no metaphor.	false
+mission_text_text_pow_ext_yuan_bo_r2_mandate_of_heaven_b2_0	<dummy>Bureaucracy is the surface; the executioner sleeps beneath. The [[col:cha_gold]]Compass[[/col]] cannot align without the hand to bear it — and the [[col:cha_gold]]Dragon Emperor[[/col]]'s chosen has work to do in the Old World before that hand may be his.	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_east	Empower the [[col:cha_gold]]Ashshair[[/col]] Relay (Kurak Peak)	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_east_b2_0	Empower the [[col:cha_gold]]Ashshair[[/col]] Relay in Kislev Mountains	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_north	Empower the [[col:cha_gold]]Dragon River[[/col]] Relay (Dragonbone)	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_north_b2_0	Empower the [[col:cha_gold]]Dragon River[[/col]] Relay in Norsca	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_south	Empower the [[col:cha_gold]]Broken Lands[[/col]] Relay (Tyr Vanna)	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_south_b2_0	Empower the [[col:cha_gold]]Broken Lands[[/col]] Relay in Athel Loren	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_west	Empower the [[col:cha_gold]]Nongchang Basin[[/col]] Relay (Konquata)	false
+mission_text_text_pow_ext_yuan_bo_r3_compass_west_b2_0	Empower the [[col:cha_gold]]Nongchang Basin[[/col]] Relay in Albion	false
+mission_text_text_pow_ext_yuan_bo_r3_final_battle	Defend the [[col:cha_gold]]Wu Xing Compass[[/col]] against the foe revealed by the celestial signs	false
+mission_text_text_pow_ext_yuan_bo_r3_r2_prereq	Complete Route II: The Executioner's Hand	false
+mission_text_text_pow_ext_yuan_bo_r3_wu_xing_compass	<dummy>The Wu Xing Compass burns at four points, and the celestial mandate descends into the Old World. Somewhere beyond the veil a hidden hand moves against the Jade Dragon — a foe whose face the astromantic charts have not yet shown. Empower each relay. Ready your host. When the Compass sings in full, the celestial light shall reveal the adversary the heavens have chosen for you to face.	false
+mission_text_text_pow_ext_yuan_bo_r3_wu_xing_compass_b2_0	<dummy>[[col:cha_gold]]Cathay[[/col]] is beset from all sides — splintered, scattered, fighting desperately against the throng of [[col:cha_gold]]Chaos[[/col]]. But underneath the Chaos, something is whispering. An ancient evil stirs. Light the relays. Empower the [[col:cha_gold]]Wu Xing Compass[[/col]]. Unite [[col:cha_gold]]Cathay[[/col]]. Let the stars be our guide!	false
+victory_types_display_name_vco_victory_type_bst_mor_3_high_elves	Route III - Destroyer of Men	false
+victory_types_display_name_vco_victory_type_cth_yua_1_the_jade_compass	Route I - Throne of Albion	false
+victory_types_display_name_vco_victory_type_cth_yua_2_harmony_through_unity	Route II - The Mandate of Heaven	false
+victory_types_display_name_vco_victory_type_cth_yua_3_the_spymaster	Route III - The Wu Xing Compass	false
+victory_types_display_name_vco_victory_type_def_gan_1_sacrifice_slaughter	Route I - Suffer Not Another Queen	false
+victory_types_display_name_vco_victory_type_def_gan_2_suffer_not_another_queen	Route II - Sacrifice and Slaughter	false
+victory_types_display_name_vco_victory_type_def_gan_3_eternity_awaits	Route III - Eternity Awaits	false
+victory_types_display_name_vco_victory_type_dwf_gro_1_malekith_grudge	Route I - The White Dwarf Walks	false
+victory_types_display_name_vco_victory_type_dwf_gro_2_high_elf_decision	Route II - The Mountainstrider	false
+victory_types_display_name_vco_victory_type_dwf_gro_3_age_reckoning	Route III - The Old Grudge	false
+victory_types_display_name_vco_victory_type_kho_ska_1_great_game	Route I - Slay the Bear-Tzar	false
+victory_types_display_name_vco_victory_type_kho_ska_2_blood_god	Route II - Crack the Holds	false
+victory_types_display_name_vco_victory_type_kho_ska_3_skull_throne	Route III - Crowns of Blood	false
+victory_types_display_name_vco_victory_type_ksl_kat_3_defenders_world	Route III - Bulwark of the North	false
+victory_types_display_name_vco_victory_type_lzd_nak_1_the_reawakening	Route I - Wanderer of the Great Plan	false
+victory_types_display_name_vco_victory_type_lzd_nak_2_homecoming	Route II - Purification of the Wandering Lands	false
+victory_types_display_name_vco_victory_type_lzd_nak_3_the_wanderer	Route III - Protector of Lizardkin	false
+victory_types_display_name_vco_victory_type_pow_ext_chs_shadow_legion_1	Route I - Shadows over Albion	false
+victory_types_display_name_vco_victory_type_pow_ext_chs_shadow_legion_2	Route II - One by One	false
+victory_types_display_name_vco_victory_type_pow_ext_chs_shadow_legion_3	Route III - The Crown Taken	false
+victory_types_display_name_vco_victory_type_pow_ext_cth_the_celestial_court_1	Route I - Throne of Albion	false
+victory_types_display_name_vco_victory_type_pow_ext_cth_the_celestial_court_2	Route II - The Executioner's Hand	false
+victory_types_display_name_vco_victory_type_pow_ext_cth_the_celestial_court_3	Route III - The Wu Xing Compass	false
+victory_types_display_name_vco_victory_type_pow_ext_def_har_ganeth_1	Route I - Suffer Not Another Queen	false
+victory_types_display_name_vco_victory_type_pow_ext_def_har_ganeth_2	Route II - The Sack of Elftown	false
+victory_types_display_name_vco_victory_type_pow_ext_def_har_ganeth_3	Route III - Khaine's Bride	false
+victory_types_display_name_vco_victory_type_pow_ext_dwf_the_ancestral_throng_1	Route I - The White Dwarf Walks	false
+victory_types_display_name_vco_victory_type_pow_ext_dwf_the_ancestral_throng_2	Route II - The Mountainstrider	false
+victory_types_display_name_vco_victory_type_pow_ext_dwf_the_ancestral_throng_3	Route III - Verses of the Old Grudge	false
+victory_types_display_name_vco_victory_type_pow_ext_kho_exiles_of_khorne_1	Route I - Slay the Bear-Tzar	false
+victory_types_display_name_vco_victory_type_pow_ext_kho_exiles_of_khorne_2	Route II - Crack the Holds	false
+victory_types_display_name_vco_victory_type_pow_ext_kho_exiles_of_khorne_3	Route III - Crowns of Blood	false
+victory_types_display_name_vco_victory_type_pow_ext_ksl_the_ice_court_1	Route I - The Motherland	false
+victory_types_display_name_vco_victory_type_pow_ext_ksl_the_ice_court_2	Route II - From Kislev With Love	false
+victory_types_display_name_vco_victory_type_pow_ext_ksl_the_ice_court_3	Route III - Bulwark of the North	false
+victory_types_display_name_vco_victory_type_pow_ext_lzd_spirits_of_the_jungle_1	Route I - Wanderer of the Great Plan	false
+victory_types_display_name_vco_victory_type_pow_ext_lzd_spirits_of_the_jungle_2	Route II - Purification of the Wandering Lands	false
+victory_types_display_name_vco_victory_type_pow_ext_lzd_spirits_of_the_jungle_3	Route III - Protector of Lizardkin	false
+victory_types_display_name_vco_victory_type_pow_ext_skv_clan_moulder_1	Route I - The Nine Circles	false
+victory_types_display_name_vco_victory_type_pow_ext_skv_clan_moulder_2	Route II - For Whom The Bell Tolls	false
+victory_types_display_name_vco_victory_type_pow_ext_skv_clan_moulder_3	Route III - The Ultimate Harvest	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_drycha_1	Route I - The Season of Woe	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_drycha_2	Route II - Where the Asrai Fled	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_drycha_3	Route III - Root of Evil	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_sisters_of_twilight_1	Route I - Dreaming Wood	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_sisters_of_twilight_2	Route II - Albion Adventure	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_sisters_of_twilight_3	Route III - Worldroots Reborn	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_dlc05_bst_morghur_herd_1	Route I - The Forest of Arden	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_dlc05_bst_morghur_herd_2	Route II - Destroyer of Men	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_dlc05_bst_morghur_herd_3	Route III - The Secret War	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_dlc08_nor_norsca_1	Route I - The New World	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_dlc08_nor_norsca_2	Route II - Red Seas Under Red Skies	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_dlc08_nor_norsca_3	Route III - Eternal Challenger	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_schwartzhafen_1	Route I - Fourth Vampire War	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_schwartzhafen_2	Route II - Slaughter Slopes	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_schwartzhafen_3	Route III - The Frozen Throne	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_vampire_counts_1	Route I - Restless Dunes	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_vampire_counts_2	Route II - Death Comes For All	false
+victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_vampire_counts_3	Route III - Reclaim the Throne	false
+mission_text_text_pow_ext_wef_orion_1_oak_of_ages	<dummy>Orion has awoken, reborn again following his annual midwinter self-sacrifice. While he has slept, the enemies of the Fay have grown numerous, their scheming now a threat to the very Weave itself. If Athel Loren is to thrive, these despoilers must be first to nourish its soil.	false
+victory_types_display_name_vco_victory_type_pow_ext_wef_orion_1	Route I - Oak of Ages	false
+victory_types_display_name_vco_victory_type_skv_mdr_1_yes_yes_prepare_the_lab	Route I - The Nine Circles	false
+victory_types_display_name_vco_victory_type_vmp_man_2_reclaim_throne	Route II - Death Comes For All	false
+victory_types_display_name_vco_victory_type_vmp_man_3_death_comes_for_all	Route III - Reclaim the Throne	false
+victory_types_display_name_vco_victory_type_wef_twi_1_dreaming_wood	Route I - Dreaming Wood	false
+victory_types_display_name_vco_victory_type_wef_twi_2_vauls_anvils	Route II - Albion Adventure	false
+victory_types_display_name_vco_victory_type_wef_twi_3_sacred_pools	Route III - Worldroots Reborn	false

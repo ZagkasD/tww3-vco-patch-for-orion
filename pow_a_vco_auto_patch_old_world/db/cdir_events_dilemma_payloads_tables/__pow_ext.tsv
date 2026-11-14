@@ -1,0 +1,10 @@
+id	choice_key	dilemma_key	payload_key	value	target_key
+#cdir_events_dilemma_payloads_tables;0;db/cdir_events_dilemma_payloads_tables/__pow_ext					
+-6873364417007650412	FIRST	pow_ext_dilemma_def_gan_lady_unmasked	EFFECT_BUNDLE	KEY[pow_ext_def_gan_lady_unmasked_warding];DURATION[0]	default
+8644045831571045348	SECOND	pow_ext_dilemma_def_gan_lady_unmasked	EFFECT_BUNDLE	KEY[pow_ext_def_gan_lady_unmasked_feast];DURATION[0]	default
+-365595603440993662	FIRST	pow_ext_wef_dry_dilemma_unlikely_alliance	EFFECT_BUNDLE	KEY[pow_ext_wef_dry_pact_dwarfs];DURATION[0]	default
+-1447633459438342438	SECOND	pow_ext_wef_dry_dilemma_unlikely_alliance	EFFECT_BUNDLE	KEY[pow_ext_wef_dry_pact_vampires];DURATION[0]	default
+-2693225727383026309	THIRD	pow_ext_wef_dry_dilemma_unlikely_alliance	EFFECT_BUNDLE	KEY[pow_ext_wef_dry_pact_ogres];DURATION[0]	default
+-2401185480816492862	FOURTH	pow_ext_wef_dry_dilemma_unlikely_alliance	EFFECT_BUNDLE	KEY[pow_ext_wef_dry_pact_slaanesh];DURATION[0]	default
+-3577129098699982873	FIFTH	pow_ext_wef_dry_dilemma_unlikely_alliance	EFFECT_BUNDLE	KEY[pow_ext_wef_dry_pact_dark_elves];DURATION[0]	default
+-5088372887388611297	SIXTH	pow_ext_wef_dry_dilemma_unlikely_alliance	EFFECT_BUNDLE	KEY[pow_ext_wef_dry_pact_independence];DURATION[0]	default
