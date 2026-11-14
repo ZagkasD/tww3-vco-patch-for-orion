@@ -51,6 +51,5 @@ return {
     { hash = "86c02259aab9ebe9", faction = "wh2_main_skv_clan_moulder" },
     { hash = "af435d1a3c4e96f1", faction = "wh_main_vmp_vampire_counts" },
     { hash = "e5cbeae0323e1a5e", faction = "wh2_dlc16_wef_drycha" },
-    { hash = "orion_route1", faction = "wh_dlc05_wef_wood_elves" },
   } },
 };
