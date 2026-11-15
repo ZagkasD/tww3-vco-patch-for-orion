@@ -1,43 +1,43 @@
 # VCO Patch for Orion — Old World Campaign
 
-A minimal patch that fixes **Victory Conditions Overhaul (VCO)** so it works on the **Old World** campaign map, specifically adding the missing victory route for **Orion (Wood Elves)**.
+A minimal patch that adds a missing victory route for **Orion (Wood Elves)** on the **Old World** campaign map in *Total War: Warhammer III*, using the **POW (Patch for Old World)** auto-loading system.
+
+**TODO:** Add the two other mission routes as well as the events/battles.
+
+**TODO2:** Update the factions that need to be destroyed for route 1. Currently almost all are too far away in the old world.
 
 ## Why VCO breaks on the Old World map
 
-VCO defines all its victory missions against a specific campaign map. Every objective in a VCO mission references concrete database keys:
+VCO defines all its victory missions against the default campaign map (`main_warhammer`). Every objective references concrete database keys:
 
-- **Region keys** — e.g. `cr_oldworld_region_the_oak_of_ages` (the Old World map's version of the Oak of Ages).
-- **Faction keys** — e.g. `wh_dlc05_bst_morghur_herd` (Morghur's faction on the Old World map).
+- **Region keys** — e.g. `wh3_main_combi_region_the_oak_of_ages`.
+- **Faction keys** — e.g. `wh_dlc05_bst_morghur_herd`.
 - **Set-piece battle keys** — e.g. `wh_dlc05_qb_wef_grand_defense_of_the_oak`.
 
-The Old World mod is a separate, remade version of the campaign. It renumbers settlements, reassigns starting positions, and uses its own set of faction and region keys. VCO was built against the default map layout, so when you switch to the Old World map, VCO's mission definitions point to keys that either don't exist or refer to completely different locations and factions.
+The Old World mod is a remade campaign with different keys for everything. VCO's missions point to keys that don't exist on the Old World map, so they fail to trigger.
 
-The result is that VCO's missions either fail to trigger, reference the wrong targets, or — in the case of newer DLC factions like Orion — don't load at all.
+## How POW fixes it
 
-## Why the POW patch exists
+**POW (Patch for Old World)** provides Old World–corrected mission definitions. Its dispatcher automatically discovers missions in `pow_ext_routes/cr_oldworld/<faction>/missions.lua` for all active factions, and loads them on new game starts.
 
-**POW (Patch for Old World)** bridges this gap. It provides a separate set of mission definitions that use the Old World map's keys, so VCO-style victory routes work correctly on the remade campaign. The POW bootstrap script detects which factions are active, checks whether VCO or another mod already covers them, and loads only the Old World–corrected missions for the remaining factions.
+No manifest entry is needed — the dispatcher handles everything.
 
 ## The Orion-specific fix
 
-Even with POW in place, Orion (the Wood Elves DLC faction) had no victory route defined for the Old World map. Playing Orion with VCO + POW enabled still left the faction with no way to win.
-
-This patch adds **Route I — "Oak of Ages"** for Orion to the POW manifest, so the bootstrap system loads it automatically when Orion is active.
+Orion (the Wood Elves DLC faction) had no Route I victory defined for the Old World map. This patch adds **Route I — "Oak of Ages"** by placing a mission file in the routes directory, where POW's dispatcher auto-discovers it.
 
 ## What Changed
 
-Four files in `pow_a_vco_auto_patch_old_world`:
+Three files in `pow_a_vco_auto_patch_old_world`:
 
 | File | Change |
 |---|---|
-| `script/pow_ext_store/orion_route1.lua` | **New file** — Orion Route I mission, using Old World map keys for regions, factions, and set-piece battles. |
+| `script/pow_ext_routes/cr_oldworld/wh_dlc05_wef_wood_elves/missions.lua` | **New file** — Orion Route I mission, using Old World map keys for regions, factions, and set-piece battles. Auto-discovered by POW's dispatcher. |
 | `db/victory_types_tables/__pow_ext.tsv` | Added one row: `vco_victory_type_pow_ext_wef_orion_1` (short route, short length). |
 | `text/db/!!zzz_pow_extended_dialog.loc.tsv` | Added mission description text and display name ("Route I - Oak of Ages"). |
-| `script/pow_ext_store/__pow_ext_manifest.lua` | Registered `orion_route1` under faction `wh_dlc05_wef_wood_elves` in the VCO 2.0.0 manifest. |
-
 
 
 ## Dependencies
 
 - **Victory Conditions Overhaul (VCO)** — required.
-- **POW — Patch for Old World** — required. This patch is a single entry added to the POW manifest.
+- **POW — Patch for Old World** — required. This patch adds a mission file to POW's routes directory.
