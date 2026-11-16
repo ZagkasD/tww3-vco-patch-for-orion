@@ -25,6 +25,7 @@ local missions = {
 
 			objective
 			{
+				override_text mission_text_text_pow_ext_wef_orion_1_defend_oak;
 				type FIGHT_SET_PIECE_BATTLE;
 				set_piece_battle wh_dlc05_qb_wef_grand_defense_of_the_oak;
 			}
