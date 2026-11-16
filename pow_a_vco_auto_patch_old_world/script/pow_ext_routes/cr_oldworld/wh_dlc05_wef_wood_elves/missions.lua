@@ -2,7 +2,6 @@
 -- TODO: fix mission 1 destroy factions. They are too far away (expect wh2_dlc15_grn_broken_axe)
 -- TODO: check vco for wh2_main_special_salzenmund_laurelorn_wef_1 (that building only has lvl 3, vco might be broken)
 
-
 local missions = {
 [[
  		mission
@@ -36,10 +35,19 @@ local missions = {
 			objective
 			{
 				type DESTROY_FACTION;
+
+				override_text mission_text_text_pow_ext_wef_orion_1_barrow_legion;
 				faction wh2_dlc11_vmp_the_barrow_legion;
+
+				override_text mission_text_text_pow_ext_wef_orion_1_broken_axe;
 				faction wh2_dlc15_grn_broken_axe;
+
+				override_text mission_text_text_pow_ext_wef_orion_1_clan_skryre;
 				faction wh2_main_skv_clan_skryre;
+
+				override_text mission_text_text_pow_ext_wef_orion_1_morghur_herd;
 				faction wh_dlc05_bst_morghur_herd;
+
 				confederation_valid;
 			}
 
