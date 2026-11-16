@@ -79,7 +79,7 @@ local missions = {
 				type CONSTRUCT_BUILDING_IN_PROVINCES;
 				faction wh_dlc05_wef_wood_elves;
 				province cr_oldworld_province_laurelorn_forest;
-				building_level wh2_main_special_salzenmund_laurelorn_wef_1;
+				building_level wh2_main_special_salzenmund_laurelorn_wef_3;
 			}
 
 			objective
