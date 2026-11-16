@@ -1,4 +1,7 @@
 -- TODO: add the two other mission routes
+-- TODO: fix mission 1 destroy factions. They are too far away (exepct wh2_dlc15_grn_broken_axe)
+-- TODO: check vco for wh2_main_special_salzenmund_laurelorn_wef_1 (that building only has lvl 3, vco might be broken)
+-- TODO: update description of wh_dlc05_qb_wef_grand_defense_of_the_oak
 
 local missions = {
 [[
