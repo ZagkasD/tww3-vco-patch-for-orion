@@ -471,7 +471,6 @@ victory_types_display_name_vco_victory_type_pow_ext_wh_main_vmp_vampire_counts_3
 mission_text_text_pow_ext_wef_orion_1_oak_of_ages	<dummy>Orion has awoken, reborn again following his annual midwinter self-sacrifice. While he has slept, the enemies of the Fay have grown numerous, their scheming now a threat to the very Weave itself. If Athel Loren is to thrive, these despoilers must be first to nourish its soil.	false
 mission_text_text_pow_ext_wef_orion_1_defend_oak	Reach 500 Forest Health in the [[col:cha_gold]]Oak of Ages[[/col]] and complete the Ritual of Rebirth. Defend the forest against the Beastmen invasion.	false
 victory_types_display_name_vco_victory_type_pow_ext_wef_orion_1	Route I - Oak of Ages	false
-victory_types_display_name_vco_victory_type_pow_ext_wef_orion_2	Route II - The Corruption of the Laurelorn	false
 victory_types_display_name_vco_victory_type_skv_mdr_1_yes_yes_prepare_the_lab	Route I - The Nine Circles	false
 victory_types_display_name_vco_victory_type_vmp_man_2_reclaim_throne	Route II - Death Comes For All	false
 victory_types_display_name_vco_victory_type_vmp_man_3_death_comes_for_all	Route III - Reclaim the Throne	false

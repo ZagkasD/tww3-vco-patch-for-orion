@@ -58,60 +58,6 @@ local missions = {
 			}
 		}
 	}
-]],
-[[
- 		mission
-	{
-		victory_type vco_victory_type_pow_ext_wef_orion_2;
-		key vco_route_victory;
-		issuer VCO_ISSUER_IME_2;
-		primary_objectives_and_payload
-		{
-			objective
-			{
-				override_text mission_text_text_vco_wef_ori_2_laurelorn_forest;
-				type SCRIPTED;
-				script_key vco_dummy;
-			}
-
-			objective
-			{
-				type CONSTRUCT_BUILDING_IN_PROVINCES;
-				faction wh_dlc05_wef_wood_elves;
-				province cr_oldworld_province_laurelorn_forest;
-				building_level wh2_main_special_salzenmund_laurelorn_wef_1;
-			}
-
-			objective
-			{
-				override_text mission_text_text_vco_wef_ori_2_laurelorn_forest_1;
-				type CONTROL_N_REGIONS_FROM;
-				total 5;
-				region cr_oldworld_region_oldenlitz;
-				region cr_oldworld_region_vorbegwerk;
-				region cr_oldworld_region_aarnau;
-				region cr_oldworld_region_drachenhohle;
-				region cr_oldworld_region_dietershafen;
-			}
-
-			payload
-			{
-				effect_bundle
-				{
-					bundle_key vco_victory_payload_wef_ori_2_laurelorn_forest;
-					turns 1;
-				}
-
-				effect_bundle
-				{
-					bundle_key vco_victory_payload_all_campaign_victory_dummy;
-					turns 0;
-				}
-
-				game_victory;
-			}
-		}
-	}
 ]]
 };
 
