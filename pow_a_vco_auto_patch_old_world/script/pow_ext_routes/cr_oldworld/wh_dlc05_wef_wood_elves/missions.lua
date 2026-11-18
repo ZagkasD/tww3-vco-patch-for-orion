@@ -1,12 +1,10 @@
--- TODO: add the two other mission routes
--- TODO: fix
 
 local missions = {
 [[
  		mission
 	{
 		victory_type vco_victory_type_pow_ext_wef_orion_1;
-		key wh_main_short_victory;
+		key vco_route_victory;
 		issuer VCO_ISSUER_IME_1;
 		primary_objectives_and_payload
 		{
