@@ -3,14 +3,14 @@ local missions = {
 [[
  		mission
 	{
-		victory_type vco_victory_type_pow_ext_wef_orion_1;
+		victory_type vco_victory_type_wef_ori_1_oak_of_ages;
 		key vco_route_victory;
 		issuer VCO_ISSUER_IME_1;
 		primary_objectives_and_payload
 		{
 			objective
 			{
-				override_text mission_text_text_pow_ext_wef_orion_1_oak_of_ages;
+				override_text mission_text_text_vco_wef_ori_1_oak_of_ages;
 				type SCRIPTED;
 				script_key vco_dummy;
 			}
@@ -60,9 +60,9 @@ local missions = {
 	}
 ]],
 [[
- 		mission
+    mission
 	{
-		victory_type vco_victory_type_pow_ext_wef_orion_2;
+		victory_type vco_victory_type_wef_ori_2_laurelorn_forest;
 		key vco_route_victory;
 		issuer VCO_ISSUER_IME_2;
 		primary_objectives_and_payload
